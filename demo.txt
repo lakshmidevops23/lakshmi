@@ -1,0 +1,8 @@
+Hi
+i am learning devops
+today i am learning git commands
+git clone
+git init
+git add
+git commit
+git push
